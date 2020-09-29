@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/COP3330FA20-master.iml" filepath="$PROJECT_DIR$/.idea/COP3330FA20-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example000/Example000.iml" filepath="$PROJECT_DIR$/Example000/Example000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example001/Example001.iml" filepath="$PROJECT_DIR$/Example001/Example001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example002/Example002.iml" filepath="$PROJECT_DIR$/Example002/Example002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example003/Example003.iml" filepath="$PROJECT_DIR$/Example003/Example003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example004/Example004.iml" filepath="$PROJECT_DIR$/Example004/Example004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example006/Example006.iml" filepath="$PROJECT_DIR$/Example006/Example006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example007/Example007.iml" filepath="$PROJECT_DIR$/Example007/Example007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example008/Example008.iml" filepath="$PROJECT_DIR$/Example008/Example008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example009/Example009.iml" filepath="$PROJECT_DIR$/Example009/Example009.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example010/Example010.iml" filepath="$PROJECT_DIR$/Example010/Example010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example011/Example011.iml" filepath="$PROJECT_DIR$/Example011/Example011.iml" />
+    </modules>
+  </component>
+</project>
